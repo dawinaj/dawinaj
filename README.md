@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @herhor67
-- 👀 I’m interested in programming, automatic control, DIY, games, reading, sports & many more!
+- 👋 Hi, I’m @dawinaj / herhor
+- 👀 I’m interested in electronics, programming, automatic control, DIY, games, reading, watersports, shooting and many more!
 - 🌱 I studied Automatic Control - masters degree
-- 📫 How to reach me: Discord @herhor67
 
